@@ -41,5 +41,5 @@ targets:
         NSCameraUsageDescription: Фото для вложений в записи Hub
         NSPhotoLibraryUsageDescription: Выбор файлов и фото для вложений в записи Hub
         WKAppBoundDomains:
-          - voevodin-hub.ru
+          - 153-76-162-117.sslip.io
         ITSAppUsesNonExemptEncryption: false
